@@ -95,13 +95,4 @@ Users can list their products for sale or search for items at **competitive pric
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimnabdoualshraei@gmail.com)  
 
----
-
-### **📌 How to Use This?**
-1. **Create a new repository** named **`your-github-username`**.  
-2. **Upload this `README.md` file** to your repository.  
-3. GitHub will automatically display this README on your **profile page**.  
-
----
-
  

@@ -66,6 +66,20 @@ Users can list their products for sale or search for items at **competitive pric
 
 ---
 
+---
+
+### 🛍️ **Tech World | Online Store for Smartphones & Computers**  
+🔹 **Description:**  
+"Tech World" is an **e-commerce platform** specialized in selling the latest **smartphones, computers, and tech accessories**.  
+It offers a **wide range of modern devices at competitive prices**, providing a **fast, secure, and flexible shopping experience**.  
+
+🔹 **Tech Stack:**  
+`HTML` `CSS` `jQuery` `PHP` `MySQL` `JavaScript`  
+
+🔹 **Status:** **Complete (Unpublished)**  
+
+---
+
 ## 🎓 Academic Qualification  
 📍 **Bachelor of Computer Science and Information Technology**  
 🏫 **Ibb University** | **Graduated: 2023** | **Grade: Good**  

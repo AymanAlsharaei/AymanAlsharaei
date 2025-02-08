@@ -66,8 +66,6 @@ Users can list their products for sale or search for items at **competitive pric
 
 ---
 
----
-
 ### 🛍️ **Tech World | Online Store for Smartphones & Computers**  
 🔹 **Description:**  
 "Tech World" is an **e-commerce platform** specialized in selling the latest **smartphones, computers, and tech accessories**.  
